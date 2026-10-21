@@ -1,0 +1,25 @@
+{
+  "appId": "id.sch.tamansiswabatam.tamvesta",
+  "appName": "TAMVESTA",
+  "webDir": "dist",
+  "server": {
+    "url": "https://tamvesta.web.id",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2500,
+      "launchAutoHide": true,
+      "launchFadeOutDuration": 500,
+      "backgroundColor": "#85CCF6",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}

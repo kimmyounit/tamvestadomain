@@ -1,0 +1,6 @@
+{
+  "name": "TAMVESTA - Tamansiswa Batam",
+  "description": "Aplikasi sekolah modern TAMVESTA untuk Tamansiswa Batam dengan sistem absensi QR Code, manajemen akademik, perpustakaan digital, dan portal siswa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
